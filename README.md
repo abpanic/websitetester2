@@ -8,8 +8,6 @@
 
 
 
-The Live demo is available [Here](https://mld-prototype.netlify.app)
-
 ## Description
 
 This is a ReactJS based startup and small business website template. 
