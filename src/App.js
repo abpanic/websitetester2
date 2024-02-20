@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("MLD | Molad e Konsult - Bespoke Web and Mobile Applications");
+  useDocTitle("NeuroFin | Bespoke Cloud Consulting, Data Consulting, Web and Mobile Applications");
 
   return (
     <>
